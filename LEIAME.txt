@@ -1,0 +1,20 @@
+Mod Brazutec lunocartas
+=======================
+
+Mod criador por Lunovox da comunidade minetestbr
+Adaptado para o mod brazutec por BrunoMine
+
+Modode uso:
+===========
+Acesse suas mensagens de email pelo laptop CUB
+
+Envie email utilizando o item carta
+
+Comandos:
+=========
+
+Enviar uma mensagem para todos os jogadores ja cadastrados
+/publicar <mensagem>
+
+Apagar mensagens de email com mais de trinta dias das caixas de mensagens de todos os jogadores
+/delolds 
