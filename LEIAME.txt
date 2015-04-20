@@ -13,8 +13,9 @@ Envie email utilizando o item carta
 Comandos:
 =========
 
-Enviar uma mensagem para todos os jogadores ja cadastrados
+Enviar uma mensagem para todos os jogadores ja cadastrados (requer privilegio postman)
 /publicar <mensagem>
 
-Apagar mensagens de email com mais de trinta dias das caixas de mensagens de todos os jogadores
+Apagar mensagens de email com mais de trinta dias das caixas de mensagens de todos 
+os jogadores (requer privilegio postman)
 /delolds 
