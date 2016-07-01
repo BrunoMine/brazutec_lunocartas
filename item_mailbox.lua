@@ -21,7 +21,7 @@ brazutec_lunocartas.openinbox = function(player, formname)
 		--print("formspecmails = "..formspecmails)
 		local formspec = "size[12,9]"
 		.."bgcolor[#080808BB;true]"
-		.."image[0,0;15,10;brazutec_desktop.png]"
+		.."background[0,0;12,9;brazutec_desktop.png]"
 		.."label[0.5,0.6;CAIXA DE MENSAGENS]"
 		.."button[1.5,7.5;1.5,0.5;closer;VOLTAR]"
 		.."button[3.0,7.5;1.5,0.5;openmail;ABRIR]"
@@ -44,7 +44,7 @@ brazutec_lunocartas.openmail = function(player, mailnumber, formname)
 			local formspec = "size[12,9]"
 			--.."label[2.75,0;MENSAGEM DE: "..mail.namefrom.."]"
 			.."bgcolor[#080808BB;true]"
-			.."image[0,0;15,10;brazutec_desktop.png]"
+			.."background[0,0;12,9;brazutec_desktop.png]"
 			.."label[1.2,0.5;De: "..mail.namefrom.."]"
 			.."button[9,2;2,0.5;openinbox;VOLTAR]"
 			.."button[9,3.5;2,0.5;delmail;EXCLUIR]"
